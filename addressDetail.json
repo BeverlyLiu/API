@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "sample string 1",
+    "City": "Santa Barbara",
+    "State": "CA 93106",
+    "Country": "USA",
+    "PhoneNumber": [
+      {
+        "Std_Code": "sample string 1",
+        "Home": "8058938000",
+        "Mobile": "8058938003"
+      },
+      {
+        "Std_Code": "sample string 1",
+        "Home": "sample string 2",
+        "Mobile": "sample string 3"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "1156 High St",
+    "City": "Santa Cruz",
+    "State": "CA 95064",
+    "Country": "USA",
+    "PhoneNumber": [
+      {
+        "Std_Code": "sample string 1",
+        "Home": "8314590111",
+        "Mobile": "8314590113"
+      },
+      {
+        "Std_Code": "sample string 1",
+        "Home": "sample string 2",
+        "Mobile": "sample string 3"
+      }
+    ]
+  },
+  "stId": "14296"
+}
